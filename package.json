@@ -1,0 +1,25 @@
+{
+  "name": "rust-svelte-template",
+  "version": "0.1.0",
+  "description": "A small rust + svelte template for frontend apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpVent/rust-svelte-template.git"
+  },
+  "keywords": [
+    "template",
+    "svelte",
+    "rust",
+    "rocket"
+  ],
+  "author": "VentGrey",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/UpVent/rust-svelte-template/issues"
+  },
+  "homepage": "https://github.com/UpVent/rust-svelte-template#readme"
+}
