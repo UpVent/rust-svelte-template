@@ -15,5 +15,8 @@ Cargo.lock
 /target
 
 # Node
-
 node_modules/
+
+# Diesel migrations & database
+migrations/
+app.sqlite3
